@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81cf563d-d2ca-4231-b656-a970f5b1366f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/BDFramework/Core/Config.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/BDFramework/Core/Config.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_BDLauncher_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_BDLauncher_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_Config_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_Config_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_Core_Debugger_Debugger_NetworkServer_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_Core_Debugger_Debugger_NetworkServer_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_GameConfig_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_GameConfig_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_GameStart_GameStartAtrribute_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_GameStart_GameStartAtrribute_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_GameStart_IGameStart_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_GameStart_IGameStart_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_ILRuntimeHelper_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_ILRuntimeHelper_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_ResourceMgr_BResources_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_ResourceMgr_BResources_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_ResourceMgr_IResMgr_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_ResourceMgr_IResMgr_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_Sql_SqliteLoder_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_Sql_SqliteLoder_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_UFlux_IButton_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_UFlux_IButton_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_UFlux_IComponentOnClick_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_UFlux_IComponentOnClick_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_UnitTest_UnitTestBaseAttribute_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_UnitTest_UnitTestBaseAttribute_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_VersionContrller_VersionContorller_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_VersionContrller_VersionContorller_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDebug_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDebug_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/CLRBindings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/CLRBindings.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/Code_BDFramework_UnitTest_Test_APITestHero_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/Code_BDFramework_UnitTest_Test_APITestHero_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/IEnumeratorTool_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/IEnumeratorTool_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/ILRuntime_CLR_TypeSystem_IType_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/ILRuntime_CLR_TypeSystem_IType_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/ILRuntime_Mono_Cecil_MemberReference_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/ILRuntime_Mono_Cecil_MemberReference_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/ILRuntime_Runtime_Enviorment_AppDomain_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/ILRuntime_Runtime_Enviorment_AppDomain_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/LitJson_JsonMapper_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/LitJson_JsonMapper_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/SQLite4Unity3d_SQLiteCommand_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/SQLite4Unity3d_SQLiteCommand_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/SQLite4Unity3d_SQLiteConnection_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/SQLite4Unity3d_SQLiteConnection_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_1_ILTypeInstance_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_1_ILTypeInstance_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_1_Single_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_1_Single_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_1_String_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_1_String_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_2_Int32_Int32_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_2_Int32_Int32_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_2_Transform_Object_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_2_Transform_Object_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_2_UIBehaviour_Object_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_2_UIBehaviour_Object_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Action_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Activator_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Activator_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Array_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Array_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Boolean_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Boolean_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_Dictionary.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_Dictionary.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_ILTypeInst.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_ILTypeInst.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_ILTypeInst_t1.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_ILTypeInst_t1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_ILTypeInst_t2.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_ILTypeInst_t2.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_ILTypeInst_t3.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_ILTypeInst_t3.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_List_1_ILT.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_List_1_ILT.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_MethodInfo.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Int32_MethodInfo.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Action_2_.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Action_2_.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Action_2__t1.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Action_2__t1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_ILTypeIns.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_ILTypeIns.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_IType_Bin.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_IType_Bin.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_Ac.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_Ac.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_Ac_t1.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_Ac_t1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_IL.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_IL.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_Ob.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_Ob.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_Si.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_Si.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_St.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_List_1_St.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_MemberInf.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_MemberInf.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_MemberInf_t1.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_MemberInf_t1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_MemberInf_t2.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_MemberInf_t2.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Object_Bi.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Object_Bi.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Single_Bi.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Single_Bi.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_String_Bi.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_String_Bi.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Type_Bind.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_String_Type_Bind.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_Dictionary_.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_Dictionary_.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_ILTypeInsta.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_ILTypeInsta.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_List_1_ILTy.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_List_1_ILTy.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_List_1_ILTy_t1.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_List_1_ILTy_t1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_Object_Bind.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Dictionary_2_Type_Object_Bind.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_IEnumerable_1_ILTypeInstance_.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_IEnumerable_1_ILTypeInstance_.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_IEnumerable_1_KeyValuePair_2_.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_IEnumerable_1_KeyValuePair_2_.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_IEnumerator_1_ILTypeInstance_.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_IEnumerator_1_ILTypeInstance_.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_IEnumerator_1_KeyValuePair_2_.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_IEnumerator_1_KeyValuePair_2_.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_KeyValuePair_2_Int32_ILTypeIn.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_KeyValuePair_2_Int32_ILTypeIn.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_KeyValuePair_2_String_Object_.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_KeyValuePair_2_String_Object_.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_KeyValuePair_2_Type_List_1_IL.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_KeyValuePair_2_Type_List_1_IL.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_APITestHero_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_APITestHero_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Action_1_ILTypeInstanc.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Action_1_ILTypeInstanc.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Action_1_ILTypeInstanc_t1.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Action_1_ILTypeInstanc_t1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Action_1_Single_Bindin.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Action_1_Single_Bindin.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Action_1_String_Bindin.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Action_1_String_Bindin.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Enum_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Enum_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Enum_Binding_Enumerato.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Enum_Binding_Enumerato.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_GameObject_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_GameObject_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_GameObject_Binding_Enu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_GameObject_Binding_Enu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_ILTypeInstance_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_ILTypeInstance_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_ILTypeInstance_Binding_t1.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_ILTypeInstance_Binding_t1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Int32_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Int32_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Int32_Binding_Enumerat.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Int32_Binding_Enumerat.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_MemberInfo_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_MemberInfo_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_MemberInfo_Binding_Enu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_MemberInfo_Binding_Enu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Object_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Object_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Object_Binding_Enumera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Object_Binding_Enumera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Single_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Single_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Single_Binding_Enumera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Single_Binding_Enumera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_String_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_String_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_String_Binding_Enumera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_String_Binding_Enumera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Type_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Type_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Type_Binding_Enumerato.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_List_1_Type_Binding_Enumerato.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Queue_1_ILTypeInstance_Bindin.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_Generic_Queue_1_ILTypeInstance_Bindin.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_ICollection_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_ICollection_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_IEnumerable_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_IEnumerable_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_IEnumerator_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_IEnumerator_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_IList_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Collections_IList_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_DateTime_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_DateTime_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Exception_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Exception_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_IDisposable_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_IDisposable_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Int32_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Int32_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Linq_Enumerable_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Linq_Enumerable_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Net_WebClient_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Net_WebClient_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_NotSupportedException_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_NotSupportedException_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Object_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Object_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Reflection_Assembly_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Reflection_Assembly_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Runtime_CompilerServices_AsyncVoidMethodBuilder_B.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Runtime_CompilerServices_AsyncVoidMethodBuilder_B.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Runtime_CompilerServices_TaskAwaiter_1_String_Bin.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Runtime_CompilerServices_TaskAwaiter_1_String_Bin.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_String_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_String_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Threading_Tasks_Task_1_String_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/System_Threading_Tasks_Task_1_String_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Application_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Application_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Behaviour_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Behaviour_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Camera_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Camera_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Color_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Color_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Events_UnityEventBase_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Events_UnityEventBase_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Events_UnityEvent_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Events_UnityEvent_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_GameObject_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_GameObject_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Mathf_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Mathf_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Object_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Object_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Random_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Random_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Transform_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_Transform_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_Button_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_Button_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_Graphic_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_Graphic_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_Image_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_Image_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_ScrollRect_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_ScrollRect_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_Text_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_UI_Text_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_WaitForSeconds_Binding.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/UnityEngine_WaitForSeconds_Binding.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game/WindowPreconfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game/WindowPreconfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test/timg (1).jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test/timg (1).jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/1.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/1.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/10.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/10.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/2.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/2.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/3.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/3.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/4.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/4.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/5.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/5.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/6.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/6.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/7.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/7.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/8.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/8.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/9.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Imge/Test2/9.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Mat/mat01.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Mat/mat01.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/Cube.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/Cube.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/New Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/New Material.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/Particle.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/Particle.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/ParticleTest.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/ParticleTest.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/timg.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/AssetTest/timg.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/1.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/1.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/10.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/10.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/2.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/2.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/3.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/3.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/4.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/4.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/5.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/5.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/6.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/6.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/7.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/7.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/8.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/8.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/9.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Image/9.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/LoadAllTest/timg.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/LoadAllTest/timg.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Shader/TheShaderVariantForAll.shadervariants" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Shader/TheShaderVariantForAll.shadervariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Shader/TheShaderVariantForAll.shadervariants.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Shader/TheShaderVariantForAll.shadervariants.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/SpriteAtlas/Atlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/SpriteAtlas/Atlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/SpriteAtlas/Atlas.spriteatlas.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/SpriteAtlas/Atlas.spriteatlas.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/SpriteAtlas/Atlas_NotRuntime.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/SpriteAtlas/Atlas_NotRuntime.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/SpriteAtlas/Atlas_NotRuntime.spriteatlas.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/SpriteAtlas/Atlas_NotRuntime.spriteatlas.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Test/Cube.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Test/Cube.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/Window_FluxMain.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/Window_FluxMain.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo001/Component_test01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo001/Component_test01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo002/Window_FluxTest002.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo002/Window_FluxTest002.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo002/item.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo002/item.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo003/Window_FluxTest003.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo003/Window_FluxTest003.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo004/Window_SimpleWindow.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo004/Window_SimpleWindow.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo005/Window_PropsDemo.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo005/Window_PropsDemo.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo006/Window_Reducer.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/UFlux/demo006/Window_Reducer.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/Window_DataListener.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/Window_DataListener.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/grid.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/grid.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/window_demo1.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/window_demo1.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/window_demo5_SpriteAtlas.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/window_demo5_SpriteAtlas.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/window_demoMain.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/window_demoMain.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/window_demoMain.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Runtime/Windows/window_demoMain.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource/Shaders/builtin_shaders-2018.4.0f1/DefaultResourcesExtra/Unlit/Unlit-Color.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource/Shaders/builtin_shaders-2018.4.0f1/DefaultResourcesExtra/Unlit/Unlit-Color.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resource_SVN/Runtime/CubeSVN.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resource_SVN/Runtime/CubeSVN.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BDFrame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BDFrame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BDFrameTest_v2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BDFrameTest_v2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Config/Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Config/Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Config/Release.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Config/Release.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android/Art.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android/Art.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android/Local.db" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android/Local.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android/Local.db.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android/Local.db.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix/hotfix.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix/hotfix.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix/hotfix.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix/hotfix.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix/hotfix.dll.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix/hotfix.dll.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix/hotfix.dll.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Android/hotfix/hotfix.dll.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BDTemp/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/BDTemp/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/BD2018.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Build/BD2018.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/BDFramework/Core/SqlHelper/Sqlite/SQLite3DllImport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/TouchAfflatus/CopyPath/CopyPathScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/BDFramework/Core/BDLauncher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Game/WindowPreconfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/BDFramework/Core/SqlHelper/Sqlite/SQLite3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/BDFramework/Core/Debugger/core/Debugger_NetworkClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Game/ILRuntime/Binding/Analysis/BDFramework_ResourceMgr_IResMgr_Binding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resource/Runtime/Image/1.jpeg.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/BDFramework/Editor/Resource/AssetBundleEditorToolsV2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/BDFramework/Editor/BuildPackage/BuildPipeline_CI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Game@hotfix/demo6_UFlux/01.Component/Props_Test001.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Config/Debug.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/TouchAfflatus/AndroidDebug/LogCatWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Config/Release.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/BDFramework/Core/Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/BDFramework/Editor/ExcelTools/Excel2SQLiteTools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Game@hotfix/Window_DemoMain.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Editor/TouchAfflatus/AndroidDebug/LogCatWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Config/Debug.json" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Config/Release.json" />
+        <option value="$PROJECT_DIR$/Assets/Code/Game/WindowPreconfig.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fJxDRaIteeokTVLXj1VRHkrpun" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_Android_plugin_suggestion" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81cf563d-d2ca-4231-b656-a970f5b1366f" name="Default Changelist" comment="" />
+      <created>1595949877820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595949877820</updated>
+      <workItem from="1595949887018" duration="1082000" />
+      <workItem from="1595955110933" duration="20000" />
+      <workItem from="1595955250270" duration="8512000" />
+      <workItem from="1595972041958" duration="2267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="2517" height="496" key="GridCell.Tab.0.bottom" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.0.bottom/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.0.center" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.0.center/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.0.left" timestamp="1595971967550">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.0.left/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967550" />
+    <state width="2517" height="496" key="GridCell.Tab.0.right" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.0.right/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.1.bottom" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.bottom/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.1.center" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.center/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.1.left" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.left/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.1.right" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.right/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.2.bottom" timestamp="1595971967552">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.2.bottom/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967552" />
+    <state width="2517" height="496" key="GridCell.Tab.2.center" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.2.center/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.2.left" timestamp="1595971967551">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.2.left/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967551" />
+    <state width="2517" height="496" key="GridCell.Tab.2.right" timestamp="1595971967552">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.2.right/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967552" />
+    <state width="2517" height="496" key="GridCell.Tab.3.bottom" timestamp="1595971967552">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.3.bottom/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967552" />
+    <state width="2517" height="496" key="GridCell.Tab.3.center" timestamp="1595971967552">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.3.center/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967552" />
+    <state width="2517" height="496" key="GridCell.Tab.3.left" timestamp="1595971967552">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.3.left/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967552" />
+    <state width="2517" height="496" key="GridCell.Tab.3.right" timestamp="1595971967552">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.3.right/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595971967552" />
+    <state x="781" y="347" key="SettingsEditor" timestamp="1595966934144">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="781" y="347" key="SettingsEditor/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595966934144" />
+    <state x="1127" y="265" width="831" height="798" key="find.popup" timestamp="1595975003793">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1127" y="265" width="831" height="798" key="find.popup/0.0.2560.1410/2560.-263.1080.1890@0.0.2560.1410" timestamp="1595975003793" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Code/Game@hotfix/Window_DemoMain.cs</url>
+          <line>179</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Code/Game@hotfix/Window_DemoMain.cs" initialLine="179">
+            <startOffsets>
+              <option value="5412" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5616" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Code/BDFramework/Core/Debugger/core/Debugger_NetworkClient.cs</url>
+          <line>48</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Code/BDFramework/Core/Debugger/core/Debugger_NetworkClient.cs" initialLine="48">
+            <startOffsets>
+              <option value="1386" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1414" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Code/Game/WindowPreconfig.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Code/Game/WindowPreconfig.cs" initialLine="29">
+            <startOffsets>
+              <option value="987" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1021" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
