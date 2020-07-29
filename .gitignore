@@ -2,3 +2,7 @@
 BDFramework.Core/Library/
 
 BDFramework.Core/obj/
+
+BDFramework.Core/.vs/
+
+BDFramework.Core/.idea/

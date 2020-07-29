@@ -19,7 +19,7 @@ namespace BDFramework.Editor.BuildPackage
             var ios =IPath.Combine(path, "iOS");
             var android =IPath.Combine(path, "Android");
             var windows =IPath.Combine(path, "Windows");
-
+            Debug.Log("如果无法正常生成,请选择父文件夹测试,因为Android/Windows/IOS目录会自动添加");
             if (Directory.Exists(ios))
             {
                 File2Hash("iOS", 1.0d, ios);
